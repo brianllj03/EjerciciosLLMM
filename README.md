@@ -18,7 +18,7 @@ Nombre | Descripción
 [Ejercicio5](/TEMA1/LMT2P1A5_BrianAlexander.html) | 
 [Ejercicio6](/TEMA1/LMT2P1A6_BrianAlexander.html) | 
 [Ejercicio7](/TEMA1/LMT2P1A7_BrianAlexander.html) | 
-[Ejercicio8](/TEMA1/LMT2P1A8_BrianAlexander/index.html) | 
-[Ejercicio9](/TEMA1/LMT2P1A9_BrianAlexander/index.html) | 
+[Ejercicio8](/TEMA1/LMT2P1A8_BrianAlexander/) | 
+[Ejercicio9](/TEMA1/LMT2P1A9_BrianAlexander/) | 
 [Ejercicio10](/TEMA1/LMT2P1A10_BrianAlexander.html) | 
 [Ejercicio11](/TEMA1/LMT2P1A11_BrianAlexander.html) | 
