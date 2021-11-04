@@ -12,7 +12,7 @@ Nombre | Descripción
 Nombre | Descripción
 -------|------------
 [Ejercicio1](/TEMA1/LMT2P1A1_BrianAlexander.html) | 
-[Ejercicio2](/TEMA1/LMT2P1A2_BrianAlexander.xml) | 
+[Ejercicio2](/TEMA1/LMT2P1A2_BrianAlexander.html) | 
 [Ejercicio3](/TEMA1/LMT2P1A3_BrianAlexander.html) | 
 [Ejercicio4](/TEMA1/LMT2P1A4_BrianAlexander.html) | 
 [Ejercicio5](/TEMA1/LMT2P1A5_BrianAlexander.html) | 
