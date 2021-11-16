@@ -22,3 +22,16 @@ Nombre | Descripción
 [Ejercicio9](/TEMA1/LMT2P1A9_BrianAlexander/) | 
 [Ejercicio10](/TEMA1/LMT2P1A10_BrianAlexander.html) | 
 [Ejercicio11](/TEMA1/LMT2P1A11_BrianAlexander.html) | 
+[Ejercicio12](/TEMA1/LMT2P1A12_BrianAlexander.html) |
+[Ejercicio13](/TEMA1/LMT2P1A13_BrianAlexander.html) |
+[Ejercicio14](/TEMA1/LMT2P1A14_BrianAlexander.html) |
+[Ejercicio15](/TEMA1/LMT2P1A15_BrianAlexander.html) |
+[Ejercicio16](/TEMA1/LMT2P1A16_BrianAlexander.html) |
+[Ejercicio17](/TEMA1/LMT2P1A17_BrianAlexander.html) |
+[Ejercicio18](/TEMA1/LMT2P1A18_BrianAlexander.html) |
+[Ejercicio19](/TEMA1/LMT2P1A19_BrianAlexander.html) |
+[Ejercicio20](/TEMA1/LMT2P1A20_BrianAlexander.html) |
+[Ejercicio21](/TEMA1/LMT2P1A21_BrianAlexander.html) |
+[Ejercicio22](/TEMA1/LMT2P1A22_BrianAlexander.html) |
+[Ejercicio23](/TEMA1/LMT2P1A23_BrianAlexander.html) |
+[Ejercicio24](/TEMA1/LMT2P1A24_BrianAlexander.html) |
