@@ -35,3 +35,4 @@ Nombre | Descripción
 [Ejercicio22](/TEMA1/LMT2P1A22_BrianAlexander.html) |
 [Ejercicio23](/TEMA1/LMT2P1A23_BrianAlexander.html) |
 [Ejercicio24](/TEMA1/LMT2P1A24_BrianAlexander.html) |
+[Ejercicio25](/TEMA1/LMT2P1A25_BrianAlexander/) |
