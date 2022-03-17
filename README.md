@@ -51,13 +51,13 @@ Nombre | Descripción
 [Ejercicio3](/TEMA3/LMT3P1A3_BrianAlexander/) | 
 [Ejercicio4](/TEMA3/LMT3P1A4_BrianAlexander/) | 
 [Ejercicio5](/TEMA3/LMT3P1A5_BrianAlexander.html) |
-[Ejercicio1]() | 
-[Ejercicio2]() | 
-[Ejercicio3]() | 
-[Ejercicio4]() | 
-[Ejercicio5]() |
-[Ejercicio1]() | 
-[Ejercicio2]() | 
-[Ejercicio3]() | 
-[Ejercicio4]() | 
+[Ejercicio6](/TEMA3/LMT3P2A1_BrianAlexander.html) | 
+[Ejercicio7](/TEMA3/LMT3P2A2_BrianAlexander/) | 
+[Ejercicio8](/TEMA3/LMT3P2A3_BrianAlexander/) | 
+[Ejercicio9](/TEMA3/LMT3P2A4_BrianAlexander.html) | 
+[Ejercicio10](/TEMA3/LMT3P2A5_BrianAlexander.html) |
+[Ejercicio11](/TEMA3/LMT3P2A8_BrianAlexander.html) | 
+[Ejercicio12](/TEMA3/LMT3P2A9_BrianAlexander.html) | 
+[Ejercicio13](/TEMA3/LMT3P2A10_BrianAlexander/) | 
+[Ejercicio14](/TEMA3/LMT3P2A11_BrianAlexander/) | 
 
