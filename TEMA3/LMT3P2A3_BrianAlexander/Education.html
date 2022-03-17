@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Curriculum Vitae</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #ccc;
+  padding: 20px;
+}
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
+  height: 350px;
+}
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+h1{text-align: center;
+    padding-bottom: 100px;
+}
+p{text-align: center;
+    padding-bottom: 50px;
+}
+</style>
+</head>
+<body>
+<section>
+  <article>
+    <h1>Curriculum Vitae</h1>
+    <p>Personal Data</p>
+    <p>Educacion Primaria<br>
+       Educacion Secundaria<br>
+       Bachillerato<br>
+       Universidad
+    </p>
+  </article>
+  <nav>
+    <ul>
+      <li style="padding-bottom: 50px;"><a href="Personal_Data.html">Personal Data</a></li>
+      <li style="padding-bottom: 50px;"><a href="Education.html">Education</a></li>
+      <li style="padding-bottom: 50px;"><a href="Professional_Experience.html">Professional Experience</a></li>
+    </ul>
+  </nav>
+</section>
+</body>
+</html>
