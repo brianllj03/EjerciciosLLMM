@@ -70,7 +70,7 @@ Nombre | Descripción
 [Ejercicio3](/TEMA3/LMT4P1A3_BrianAlexander/) | 
 [Ejercicio4](/TEMA3/LMT4P1A4_BrianAlexander/) | 
 
-PROYECTO 1ºTRIMESTRE -->
+PROYECTO 2ºTRIMESTRE -->
 
 FINAL 2º TRIMESTRE
 ---------------------------------------------------------------------------------
