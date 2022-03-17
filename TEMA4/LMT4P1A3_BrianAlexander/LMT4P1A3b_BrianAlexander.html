@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        function cambiaCoche(nombre) {
+            document.getElementById('miImagen').src = nombre;   
+        }
+    </script>
+</head>
+<body>
+    <h2>Imágenes de coches</h2>
+ 
+    <p>Ejemplo de JavaScript en el que cambiamos las imágenes mostradas el pulsar un botón</p>
+     
+    <img id="miImagen" src="audi.jpg" style="height:300px"><br>
+     
+    <form action="/action.page.php">
+        <label for="cars">Choose a car:</label>
+        <select id="cars" name="cars" onchange="cambiaCoche(document.getElementById('cars').value)">
+            <option value="audi.jpg">Audi</option>
+            <option value="Opel.jpg">Opel</option>
+            <option value="mercedes.jpg">mercedes</option>
+            <option value="nissan.jpg">nissan</option>
+            <option value="citroen.jpg">citroen</option>
+            <option value="Lambo.jpg">Lambo</option>
+        </select>
+    </form>
+</body>
+</html>
