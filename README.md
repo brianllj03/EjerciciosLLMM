@@ -65,10 +65,10 @@ Nombre | Descripción
 
 Nombre | Descripción
 -------|------------
-[Ejercicio1](/TEMA3/LMT4P1A1_BrianAlexander.html) | 
-[Ejercicio2](/TEMA3/LMT4P1A2_BrianAlexander.html) | 
-[Ejercicio3](/TEMA3/LMT4P1A3_BrianAlexander.html) | 
-[Ejercicio4](/TEMA3/LMT4P1A4_BrianAlexander.html) | 
+[Ejercicio1](/TEMA4/LMT4P1A1_BrianAlexander/) | 
+[Ejercicio2](/TEMA4/LMT4P1A2_BrianAlexander/) | 
+[Ejercicio3](/TEMA4/LMT4P1A3_BrianAlexander/) | 
+[Ejercicio4](/TEMA4/LMT4P1A4_BrianAlexander/) | 
 
 PROYECTO 2ºTRIMESTRE --> https://zapas.w3spaces.com
 
