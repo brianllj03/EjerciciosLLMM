@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            function cambiaCoche(nombre) {
+                document.getElementById('miImagen').src = nombre;   
+            }
+        </script>
+    </head>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">Tres Estilos Diferentes</p>
+<button type="button" onclick="document.getElementById('demo').style.fontFamily='Arial'">Click Me!</button>
+<button type="button" onclick="document.getElementById('demo').style.fontfamily='Arial Black'">Click Me!</button>
+<button type="button" onclick="document.getElementById('demo').style.fontfamily='Courier New'">Click Me!</button><br><br>
+
+<img id="miImagen" src="audi.jpg" style="height:300px"><br>
+<button onclick="cambiaCoche('audi.jpg')">Coche 1</button>    
+<button onclick="cambiaCoche('Opel.jpg')">Coche 2</button>    
+<button onclick="cambiaCoche('mercedes.jpg')">Coche 3</button>        
+<button onclick="cambiaCoche('nissan.jpg')">Coche 4</button>    
+<button onclick="cambiaCoche('citroen.jpg')">Coche 5</button>    
+<button onclick="cambiaCoche('Lambo.jpg')">Coche 6</button> 
+
+<p id="demi">Tres Mensajes diferentes</p>
+<button type="button" onclick="document.getElementById('demi').innerHTML = 'Hello JavaScript!'">Click Me!</button>
+<button type="button" onclick="document.getElementById('demi').innerHTML = 'Hello CSS!'">Click Me!</button>
+<button type="button" onclick="document.getElementById('demi').innerHTML = 'Hello HTML!'">Click Me!</button>
+
+
+</body>
+</html> 
