@@ -86,12 +86,3 @@ Nombre | Descripción
 [Ejercicio8]() |
 [Ejercicio9]() | 
 [Ejercicio10]() | 
-[Ejercicio11]() | 
-[Ejercicio8]() | 
-[Ejercicio9]() | 
-[Ejercicio10]() | 
-[Ejercicio11]() | 
-[Ejercicio12]() |
-[Ejercicio13]() | 
-[Ejercicio14]() | 
-[Ejercicio15]() | 
