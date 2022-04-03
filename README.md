@@ -81,10 +81,10 @@ FINAL 2º TRIMESTRE
 Nombre | Descripción
 -------|------------
 [Ejercicio5](/TEMA5/LMT4P1A5_BrianAlexander/) | 
-[Ejercicio6]() | 
-[Ejercicio7]() | 
-[Ejercicio8]() |
-[Ejercicio9]() | 
+[Ejercicio6](/TEMA5/LMT4P1A6_BrianAlexander/) | 
+[Ejercicio7](/TEMA5/LMT4P1A7_BrianAlexander/) | 
+[Ejercicio8](/TEMA5/LMT4P1A8_BrianAlexander/) |
+[Ejercicio9](/TEMA5/LMT4P1A9_BrianAlexander/) | 
 [Ejercicio10]() |
 [Ejercicio11]() | 
 [Ejercicio12]() | 
