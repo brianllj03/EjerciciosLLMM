@@ -1,0 +1,27 @@
+html, body {
+    overflow-x: hidden;
+    overflow-y: hidden; 
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    background-image: url('https://wallpapercave.com/wp/5KLTq1z.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    z-index: -2;
+  }
+
+  h1, div, button{color: crimson;
+    text-align: center;
+  }
+  
+  @media screen 
+   and (max-device-width: 800px) 
+    and (max-device-height: 640px) 
+    and (-webkit-device-pixel-ratio: 2) 
+    and (orientation: portrait) {
+      p {
+        font-size: 1em;
+      }
+  }
