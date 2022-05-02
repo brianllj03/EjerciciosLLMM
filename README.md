@@ -90,3 +90,15 @@ Nombre | Descripción
 [Ejercicio12](/TEMA4/LMT4P1A12_BrianAlexander/) | 
 [Ejercicio13](/TEMA4/LMT4P1A13_BrianAlexander/) | 
 
+[Ejercicio14](/TEMA5/LMT4P1A10_BrianAlexander/) |
+[Ejercicio15](/TEMA5/LMT4P1A11_BrianAlexander/) | 
+[Ejercicio16](/TEMA5/LMT4P1A12_BrianAlexander/) | 
+[Ejercicio17](/TEMA5/LMT4P1A13_BrianAlexander/) | 
+[Ejercicio18](/TEMA5/LMT4P1A10_BrianAlexander/) |
+[Ejercicio19](/TEMA5/LMT4P1A11_BrianAlexander/) | 
+[Ejercicio20](/TEMA5/LMT4P1A12_BrianAlexander/) | 
+[Ejercicio21](/TEMA5/LMT4P1A13_BrianAlexander/) | 
+[Ejercicio22](/TEMA5/LMT4P1A10_BrianAlexander/) |
+[Ejercicio23](/TEMA5/LMT4P1A11_BrianAlexander/) | 
+[Ejercicio24](/TEMA5/LMT4P1A12_BrianAlexander/) | 
+[Ejercicio25](/TEMA5/LMT4P1A13_BrianAlexander/) | 
