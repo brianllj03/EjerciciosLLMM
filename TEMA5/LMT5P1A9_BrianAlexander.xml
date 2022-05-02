@@ -1,0 +1,43 @@
+titulos = "";
+n = document.getElementsByTagName("TITLE").length;
+for(i = 0; i < n; i++)
+  titulos += document.getElementsByTagName("TITLE")[i].childNodes[0].nodeValue + " <br> ";
+
+  titulos = "";
+n = document.getElementsByTagName("PRICE").length;
+for(i = 0; i < n; i++)
+  titulos += document.getElementsByTagName("PRICE")[i].childNodes[0].nodeValue + " <br> ";
+
+  titulos = "";
+n = document.getElementsByTagName("COMPANY").length;
+for(i = 0; i < n; i++)
+  titulos += document.getElementsByTagName("COMPANY")[i].childNodes[0].nodeValue + " <br> ";
+
+  Ejemplo en el que se muestra título, artista y precio mediante Ajax
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2>The XMLHttpRequest Object</h2>
+<p id="demo"></p>
+ 
+<script>
+const xhttp = new XMLHttpRequest();
+xhttp.onload = function() {
+  const xmlDoc = this.responseXML;
+  const x = xmlDoc.getElementsByTagName("CD");
+  let txt = "", title= "", artist = "";
+  for (let i = 0; i < x.length; i++) {
+    title = x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue;
+    artist = x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue;
+    price = x[i].getElementsByTagName("PRICE")[0].childNodes[0].nodeValue;
+    txt = txt + title + " - (" + artist + ") " + price + "€<br>";
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
+xhttp.open("GET", "cd_catalog.xml");
+xhttp.send();
+</script>
+</body>
+</html>
+
