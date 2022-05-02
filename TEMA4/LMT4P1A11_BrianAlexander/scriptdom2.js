@@ -1,0 +1,1 @@
+document.querySelector(".lambo").src = "lambo.jpg";
