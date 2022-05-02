@@ -85,8 +85,8 @@ Nombre | Descripción
 [Ejercicio7](/TEMA5/LMT4P1A7_BrianAlexander/) | 
 [Ejercicio8](/TEMA5/LMT4P1A8_BrianAlexander/) |
 [Ejercicio9](/TEMA5/LMT4P1A9_BrianAlexander/) | 
-[Ejercicio10]() |
-[Ejercicio11]() | 
-[Ejercicio12]() | 
-[Ejercicio13]() | 
+[Ejercicio10](/TEMA4/LMT4P1A10_BrianAlexander/) |
+[Ejercicio11](/TEMA4/LMT4P1A11_BrianAlexander/) | 
+[Ejercicio12](/TEMA4/LMT4P1A12_BrianAlexander/) | 
+[Ejercicio13](/TEMA4/LMT4P1A13_BrianAlexander/) | 
 
