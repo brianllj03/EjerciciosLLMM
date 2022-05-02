@@ -98,6 +98,3 @@ Nombre | Descripción
 [Ejercicio20](/TEMA5/LMT5P1A7_BrianAlexander/) | 
 [Ejercicio21](/TEMA5/LMT5P1A8_BrianAlexander/) | 
 [Ejercicio22](/TEMA5/LMT5P1A9_BrianAlexander/) |
-[Ejercicio23](/TEMA5/LMT5P1A10_BrianAlexander/) | 
-[Ejercicio24](/TEMA5/LMT5P1A11_BrianAlexander/) | 
-[Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander/) | 
