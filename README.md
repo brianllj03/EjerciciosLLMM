@@ -111,4 +111,15 @@ Nombre | Descripción
 [Ejercicio21](/TEMA5/LMT5P1A8_BrianAlexander.xml) | 
 [Ejercicio22](/TEMA5/LMT5P1A9_BrianAlexander.xml) |
 
+AJAX
+
+Nombre | Descripción
+-------|------------
+[Ejercicio23](/TEMA5/LMT5P1A10_BrianAlexander.xml) |
+[Ejercicio24](/TEMA5/LMT5P1A11_BrianAlexander.xml) | 
+[Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander.xml) | 
+[Ejercicio26](/TEMA5/LMT5P1A13_BrianAlexander.xml) | 
+[Ejercicio27](/TEMA5/LMT5P1A14_BrianAlexander.xml) |
+
+
 PROYECTO 3ºTRIMESTRE --> 
