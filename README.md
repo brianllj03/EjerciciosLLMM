@@ -119,7 +119,5 @@ Nombre | Descripción
 [Ejercicio24](/TEMA5/LMT5P1A11_BrianAlexander.xml) | 
 [Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander.xml) | 
 [Ejercicio26](/TEMA5/LMT5P1A13_BrianAlexander.xml) | 
-[Ejercicio27](/TEMA5/LMT5P1A14_BrianAlexander.xml) |
-
 
 PROYECTO 3ºTRIMESTRE --> 
