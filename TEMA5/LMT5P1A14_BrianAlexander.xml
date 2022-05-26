@@ -1,0 +1,44 @@
+<!-- 1 -->
+//nombre
+
+<!-- 2 -->
+//carrera/nombre
+
+<!-- 3 -->
+// alumno/nombre
+
+<!-- 4 -->
+//asignatura/nombre
+
+<!-- 5 -->
+//@id
+
+<!-- 6 -->
+//carrera/@id
+
+<!-- 7 -->
+//alumno[1]
+
+<!-- 8 -->
+//alumno[last()]
+
+<!-- 9 -->
+//alumno[1] | //alumno[2]
+
+<!-- 10 -->
+//asignatura/@id=a01
+
+<!-- 11 -->
+//carreras/@id=c01
+
+<!-- 12 -->
+//carreras/carrera/[creditos>200]
+
+<!-- 13 -->
+//asignaturas/asignatura/creditos_teoricos/.[creditos_teoricos>4]
+
+<!-- 14 -->
+//carreras/carrera/centro
+
+<!-- 15 -->
+//carreras/node()

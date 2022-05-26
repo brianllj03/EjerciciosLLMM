@@ -1,0 +1,5 @@
+let autos = [ "Ford", "BMW", "Audi", "Fiat" ]
+console.log(coches.length)
+
+let autos2 = [ "Ford", "BMW", "Audi", "Fiat" ]
+console.table(coches.length)
