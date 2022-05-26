@@ -116,8 +116,15 @@ AJAX
 Nombre | Descripción
 -------|------------
 [Ejercicio23](/TEMA5/LMT5P1A10_BrianAlexander.xml) |
-[Ejercicio24](/TEMA5/LMT5P1A11_BrianAlexander/) | 
-[Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander.xml) | 
+[Ejercicio24](/TEMA5/LMT5P1A11_BrianAlexander/) |
+
+JSON
+
+Nombre | Descripción
+-------|------------
+[Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander.xml) |
 [Ejercicio26](/TEMA5/LMT5P1A13_BrianAlexander.xml) | 
 
-PROYECTO 3ºTRIMESTRE --> 
+
+
+PROYECTO 3ºTRIMESTRE --> https://brianproyectoxml.w3spaces.com
