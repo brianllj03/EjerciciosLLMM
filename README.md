@@ -122,8 +122,8 @@ JSON
 
 Nombre | Descripción
 -------|------------
-[Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander.xml) |
-[Ejercicio26](/TEMA5/LMT5P1A13_BrianAlexander.xml) | 
+[Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander.json) |
+[Ejercicio26](/TEMA5/LMT5P1A13_BrianAlexander.json) | 
 
 
 
