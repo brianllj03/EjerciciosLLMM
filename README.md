@@ -123,7 +123,14 @@ JSON
 Nombre | Descripción
 -------|------------
 [Ejercicio25](/TEMA5/LMT5P1A12_BrianAlexander.json) |
-[Ejercicio26](/TEMA5/LMT5P1A13_BrianAlexander.json) | 
+[Ejercicio26](/TEMA5/LMT5P1A13_BrianAlexander.json) |
+
+XPATH
+
+Nombre | Descripción
+-------|------------
+[Ejercicio25](/TEMA5/LMT5P1A14_BrianAlexander.xml) |
+[Ejercicio26](/TEMA5/LMT5P1A15_BrianAlexander/) | 
 
 
 
