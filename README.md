@@ -129,8 +129,8 @@ XPATH
 
 Nombre | Descripción
 -------|------------
-[Ejercicio25](/TEMA5/LMT5P1A14_BrianAlexander.xml) |
-[Ejercicio26](/TEMA5/LMT5P1A15_BrianAlexander/) | 
+[Ejercicio27](/TEMA5/LMT5P1A14_BrianAlexander.xml) |
+[Ejercicio28](/TEMA5/LMT5P1A15_BrianAlexander/) | 
 
 
 
